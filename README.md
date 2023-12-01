@@ -16,7 +16,7 @@ N/A
 
 ## Usage
 
-N/A
+Here is running application [Deployed Application](https://rexactor.github.io/Front-End-Dev-First-Week-Challenge/#search-engine-optimization)
 
 ## Preview
 
