@@ -26,4 +26,4 @@ Here is running application [Deployed Application](https://rexactor.github.io/Fr
 
 Using EdX Bootcamp provided starter code
 
-[W3schools] (https://www.w3schools.com/)
+Semantic tags at [W3schools](https://www.w3schools.com/html/html5_semantic_elements.asp)
