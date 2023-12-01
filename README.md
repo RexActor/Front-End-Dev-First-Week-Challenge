@@ -2,7 +2,7 @@
 
 ## Description
 
-Site optimised for Search engines with symentic html tags
+Site optimised for Search engines with semantic html tag usage
 
 ## Table of Contents
 
@@ -15,6 +15,10 @@ Site optimised for Search engines with symentic html tags
 N/A
 
 ## Usage
+
+N/A
+
+## Preview
 
 ![alt text](assets/images/screenshot.png)
 
